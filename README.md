@@ -43,4 +43,4 @@ The full case study (including discussion and empirical refinement) is currently
 ## Author
 Zvonimir Škrinjaric  
 MA Sociology | BA Psychology  
-Focus: policy, digital systems, organizational analysis
+
