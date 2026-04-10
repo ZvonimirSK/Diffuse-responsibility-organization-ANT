@@ -34,7 +34,7 @@ The analysis focuses on:
 - Decision premises (programmes, personnel, communication channels)
 - Uncertainty absorption
 - Deparadoxization
-- Actor-network / mediators / obligatory passage points (Latour)
+- Actor-network / mediators / obligatory passage points
 
 ## Status
 Work in progress.  
