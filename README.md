@@ -10,6 +10,8 @@ The study combines:
 - Actor-Network Theory (ANT)
 - Luhmann’s systems theory (decision communication, decision premises)
 
+The case is anonymised and presented at an analytical level to foreground organizational mechanisms rather than identifiable actors or sites.
+
 ## Core Insight
 Responsibility is not simply assigned or avoided.  
 It is structurally produced — and often diffused — through:
